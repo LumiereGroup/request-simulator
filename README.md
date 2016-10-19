@@ -1,5 +1,5 @@
 # request-simulator
-A Java program for producing multiple requests from a single JSON request. It generates unique requests each time which makes it different from all the available simulators.
+A Java program for producing multiple requests from a single JSON request. It generates unique requests each time which makes it different from all simulators currently available for load testing.
 
 **Configuration for Ubuntu 12.04**:
 1. Change values for JAVA_OPTS in `/etc/environment` to update heap size for JVM.
